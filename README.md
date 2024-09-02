@@ -3,8 +3,8 @@
   ![ShadCN](https://img.shields.io/badge/shadCn-%233068b7.svg?style=for-the-badge&logo=shadCn&logoColor=white) ShadCN-UI -- biblioteca <br />
   ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) Zod -- validar <br />
   ![Icons](https://img.shields.io/badge/icons-%233068b7.svg?style=for-the-badge&logo=icon&logoColor=white) React-Icons -- Icons <br />
-  ![Charts](https://img.shields.io/badge/charts-%233068b7.svg?style=for-the-badge&logo=chart&logoColor=white) Gráficos 
-  ![Toastify](https://img.shields.io/badge/toastify-%233068b7.svg?style=for-the-badge&logo=toastify&logoColor=white) Toastify
+  ![Charts](https://img.shields.io/badge/charts-%233068b7.svg?style=for-the-badge&logo=chart&logoColor=white) Gráficos <br /> 
+  ![Toastify](https://img.shields.io/badge/toastify-%233068b7.svg?style=for-the-badge&logo=toastify&logoColor=white) Toastify <br />
   ![Server](https://img.shields.io/badge/server-%233068b7.svg?style=for-the-badge&logo=server&logoColor=white) Json-Server -- Api mocada <br />
   ![Axios](https://img.shields.io/badge/axios-%233068b7.svg?style=for-the-badge&logo=axios&logoColor=white) Axios
 
