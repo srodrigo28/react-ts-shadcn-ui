@@ -1,12 +1,19 @@
 ### Projeto React-Ts.
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) TailwindCSS -- Estilizações <br />
-  ![ShadCnUI](https://img.shields.io/badge/shadCnUi-%233068b7.svg?style=for-the-badge&logo=shadcnUi&logoColor=white&badgeColor=black) ShadCN-UI -- biblioteca <br />
+
+  ![ShadCnUI](https://img.shields.io/badge/shadCnUi-0A0A0A?style=for-the-badge&logo=shadcnUi&logoColor=white) ShadCN-UI -- biblioteca <br />
+
   ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) Zod -- validar <br />
-  ![Icons](https://img.shields.io/badge/icons-%233068b7.svg?style=for-the-badge&logo=icon&logoColor=white) React-Icons -- Icons <br />
-  ![Charts](https://img.shields.io/badge/charts-%233068b7.svg?style=for-the-badge&logo=chart&logoColor=white) Gráficos <br /> 
+
+  ![React Icons](https://img.shields.io/badge/reactIcons-%23DD0031.svg?style=for-the-badge&logo=reactIcons&logoColor=white) React-Icons -- Icons <br />
+
+  ![Chart](https://img.shields.io/badge/chart-%233068b7.svg?style=for-the-badge&logo=chart&logoColor=white) Gráficos <br />
+
   ![Toastify](https://img.shields.io/badge/toastify-%233068b7.svg?style=for-the-badge&logo=toastify&logoColor=white) Toastify <br />
-  ![Server](https://img.shields.io/badge/server-%233068b7.svg?style=for-the-badge&logo=server&logoColor=white) Json-Server -- Api mocada <br />
-  ![Axios](https://img.shields.io/badge/axios-%233068b7.svg?style=for-the-badge&logo=axios&logoColor=white) Axios
+
+  ![Server](https://img.shields.io/badge/server-%23F5792A.svg?style=for-the-badge&logo=apiServer&logoColor=white) Json-Server -- Api mocada <br />
+
+  ![Axios](https://img.shields.io/badge/axios-%234DC730.svg?style=for-the-badge&logo=axios&logoColor=white) Axios
 
 #### TailWindCSS Instalação
 * 1. 
