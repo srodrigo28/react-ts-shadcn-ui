@@ -17,7 +17,7 @@
 
 ### Criando um projeto React
 ```
-npm create vite@latest nomeProjeto
+npm create vite@latest react-shadcn-ui
 ```
 
 #### ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) TailwindCSS Instalação
