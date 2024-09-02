@@ -1,6 +1,6 @@
 ### Projeto React-Ts.
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) TailwindCSS -- Estilizações <br />
-  ![ShadCnUI](https://img.shields.io/badge/shadCnUi-%233068b7.svg?style=for-the-badge&logo=shadcnUi&logoColor=white&backgroundColor=black) ShadCN-UI -- biblioteca <br />
+  ![ShadCnUI](https://img.shields.io/badge/shadCnUi-%233068b7.svg?style=for-the-badge&logo=shadcnUi&logoColor=white&badgeColor=black) ShadCN-UI -- biblioteca <br />
   ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) Zod -- validar <br />
   ![Icons](https://img.shields.io/badge/icons-%233068b7.svg?style=for-the-badge&logo=icon&logoColor=white) React-Icons -- Icons <br />
   ![Charts](https://img.shields.io/badge/charts-%233068b7.svg?style=for-the-badge&logo=chart&logoColor=white) Gráficos <br /> 
