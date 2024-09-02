@@ -7,6 +7,8 @@
 
   ![React Icons](https://img.shields.io/badge/reactIcons-%23DD0031.svg?style=for-the-badge&logo=reactIcons&logoColor=white) React-Icons -- Icons <br />
 
+  ![React Icons](https://img.shields.io/badge/reactIcons-E6007A?style=for-the-badge&logo=reactIcons&logoColor=white)
+
   ![Chart](https://img.shields.io/badge/chart-%233068b7.svg?style=for-the-badge&logo=chart&logoColor=white) Gráficos <br />
 
   ![Toastify](https://img.shields.io/badge/toastify-%233068b7.svg?style=for-the-badge&logo=toastify&logoColor=white) Toastify <br />
