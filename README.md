@@ -15,6 +15,11 @@
 
   ![Axios](https://img.shields.io/badge/axios-%234DC730.svg?style=for-the-badge&logo=axios&logoColor=white) -- Axios
 
+### Criando um projeto React
+```
+npm create vite@latest nomeProjeto
+```
+
 #### ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) TailwindCSS Instalação
 * 1. 
 ```
@@ -118,4 +123,9 @@ npx shadcn@latest init
 * 6. elemento para teste
 ```
 npx shadcn@latest add button
+```
+
+#### Rodando o projeto
+```
+npm run dev
 ```
