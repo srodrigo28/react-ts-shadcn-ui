@@ -56,9 +56,7 @@ export default {
 * 5. Exemplo
 
 ### ![ShadCnUI](https://img.shields.io/badge/shadCnUi-0A0A0A?style=for-the-badge&logo=shadcnUi&logoColor=white) ShadCN-UI
-* ref.
-
-* 1. tsconfig.json
+* 6. tsconfig.json
 ```
 {
   "files": [],
@@ -79,7 +77,7 @@ export default {
 }
 ```
 
-* 2. tsconfig.app.json
+* 7. tsconfig.app.json
 ```
 {
   "compilerOptions": {
@@ -95,12 +93,12 @@ export default {
 }
 ```
 
-* 3. Instalando os types do node
+* 8. Instalando os types do node
 ```
 npm i -D @types/node
 ```
 
-* 4. vite.config
+* 9. vite.config
 ```
 import path from "path"
 import react from "@vitejs/plugin-react"
@@ -115,17 +113,18 @@ export default defineConfig({
   },
 })
 ```
-* 5. instalar e escolher o tema
+* 10. instalar e escolher o tema
 ```
 npx shadcn@latest init
 ```
 
-* 6. elemento para teste
+* 11. elemento para teste
 ```
 npx shadcn@latest add button
 ```
 
 #### Rodando o projeto
+* 12. terminal
 ```
 npm run dev
 ```
