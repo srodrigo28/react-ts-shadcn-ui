@@ -77,7 +77,7 @@ export default {
 }
 ```
 
-* 7. tsconfig.app.json
+* 7. tsconfig.app.json ( muita Atenção )
 ```
 {
   "compilerOptions": {
@@ -87,7 +87,7 @@ export default {
       "@/*": [
         "./src/*"
       ]
-    }
+    },
     // ...
   }
 }
