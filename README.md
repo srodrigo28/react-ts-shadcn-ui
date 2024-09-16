@@ -128,3 +128,11 @@ npx shadcn@latest add button
 ```
 npm run dev
 ```
+
+#### Soluções
+
+npm error path C:\Users\lucas\AppData\Roaming\npm
+
+npm error errno -4058
+
+npx shadcn@latest init
